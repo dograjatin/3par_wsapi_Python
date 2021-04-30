@@ -2,9 +2,9 @@
 ## Please change the 3PAR Credentials Accordingly ##
 ####################################################
 
-storage_ip = "10.56.74.29"                       
-username = "3paradm"
-password = "3pardata"
+storage_ip = "XX.XX.XX.XX"                       
+username = "UERNAME"
+password = "PASSWORD"
 
 ####################################################
 ####################################################
